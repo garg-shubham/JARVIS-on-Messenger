@@ -11,11 +11,11 @@ Just A Rather Very Intelligent System, now on Messenger!
 [![Contributors](https://img.shields.io/github/contributors/swapagarwal/JARVIS-on-Messenger.svg)](https://github.com/swapagarwal/JARVIS-on-Messenger/graphs/contributors)
 [![Beginner Issues](https://img.shields.io/github/issues/swapagarwal/JARVIS-on-Messenger/Low-Hanging%20Fruit.svg?label=low-hanging%20fruits)](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)
 
-Messenger is now used by 1.2 billion people every month. With the launch of Send/Receive API, bots are about to [take](http://time.com/4291214/facebook-messenger-bots/) [over](http://www.computerworld.com/article/3055588/social-media/an-army-of-chatbots-will-take-over-facebook-here-s-why.html).
+Messenger is now used by 1.2 billion people every month. With the launch of Send/Receive API, bots are about to <a href="http://time.com/4291214/facebook-messenger-bots/" target="_blank">take</a> <a href="http://www.computerworld.com/article/3055588/social-media/an-army-of-chatbots-will-take-over-facebook-here-s-why.html" target="_blank">over</a>.
 
 ### Usage
 
-JARVIS is at your service [here](https://m.me/J.A.R.V.I.S.on.Messenger).
+JARVIS is at your service <a href="https://m.me/J.A.R.V.I.S.on.Messenger" target="_blank">here</a>.
 
 ### Demo (Vimeo)
 
